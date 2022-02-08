@@ -5,7 +5,7 @@
 # What does this website contains?
 
 - This website contains map of world including all Countries with their boundries
-- Clicking on any country the popup message shows the name of Country
+- Clicking on any State the popup message shows the name of State
 
 # Problem Statement
 - Build a mobile web app with a basic Map based data visualization. 
@@ -25,3 +25,4 @@
 # Data
 
 -https://datahub.io/core/geo-countries
+-https://www.kaggle.com/sauravmishra1710/indian-state-geojson-data
