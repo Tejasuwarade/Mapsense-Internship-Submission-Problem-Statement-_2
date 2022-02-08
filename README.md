@@ -1,6 +1,6 @@
 # Mapsense-Internship-Submission-Problem-Statement-_2
 
-- Problem Statement Website Link : https://tejasuwarade.github.io/Mapsense-Internship-Submission-Problem-Statement/
+- Problem Statement Website Link : https://tejasuwarade.github.io/Mapsense-Internship-Submission-Problem-Statement-_2/
 
 # What does this website contains?
 
